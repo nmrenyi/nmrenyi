@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Welcome to my Github and be sure to visit my personal page at https://nmrenyi.github.io/ !
+Some of my Github statistics are listed below.
 <!--
 **nmrenyi/nmrenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
