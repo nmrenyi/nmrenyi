@@ -1,6 +1,7 @@
 ### Hi there 👋
-Welcome to my Github!
-Some of my Github statistics are listed below.
+Welcome to my GitHub!
+Feel free to contact me by renyi1006 AT gmail.com
+<!-- Some of my Github statistics are listed below. -->
 <!--
 **nmrenyi/nmrenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/nmrenyi"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nmrenyi&show_icons=true&include_all_commits=true" /></a>
+<!-- <a href="https://github.com/nmrenyi"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nmrenyi&show_icons=true&include_all_commits=true" /></a>
 
 <a href="https://github.com/nmrenyi"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmrenyi&layout=compact&hide=HTML,CSS,QMAKE" /></a>
+ -->
