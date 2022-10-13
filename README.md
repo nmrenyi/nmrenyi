@@ -3,7 +3,7 @@ Welcome to my GitHub!
 
 Now I'm a PhD candidate in THUIR, Tsinghua University. My research interest includes recommendation system, privacy protection, pre-train models and **ALL that can BENEFIT HUMAN RACE!**
 
-I love eating hotpot with mutton (in Chinese called 涮羊肉, one of the amazing food from my sweet hometown, Hohhot, Inner Mongolia). In my spare time, I love reading, exploring new techs, photography, cooking, riding, running.. In one word, I **LOVE MY LIFE** and I'm willing to **LIVE IT TO THE FULLEST**!
+I love eating hotpot with mutton (in Chinese called 涮羊肉, one of the amazing food from my sweet hometown, Hohhot, Inner Mongolia). In my spare time, I love reading, exploring new techs, photography, cooking, riding, running. In one word, I **LOVE MY LIFE** and I'm willing to **LIVE IT TO THE FULLEST**!
 
 Feel free to contact me by renyi1006 AT gmail.com. We can have a quite open talk. After all, besides research and technology, there is a more colourful world for us to EXPLORE!
 
