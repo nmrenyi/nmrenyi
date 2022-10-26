@@ -1,6 +1,6 @@
 ### Hi, I'm Yi REN (任一) 👋
 
-I'm a nature-loving guy and a PhD candidate in THUIR. I grew up watching the soft white clouds wandering around the blue sky in Hohhot, Inner Mongolia, China. I love beautiful things, like a meteor across the night sky, warm streetlight around the corner, the eyes of beloved person, etc.
+I'm a nature-loving guy and a PhD candidate in THUIR. I grew up watching the soft white clouds wandering around the blue sky in Hohhot, Inner Mongolia, China. I love beautiful things, like a meteor across the night sky🌠, warm streetlight around the corner🍁, the eyes of beloved girl❤️, etc.
 
 My research interest includes recommendation system, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
