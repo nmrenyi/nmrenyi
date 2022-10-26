@@ -1,11 +1,12 @@
-### Hi there 👋
-Welcome to my GitHub!
+### Hi, I'm Yi REN (任一) 👋
 
-I'm Yi REN (任一), a PhD candidate in THUIR (admitted into THUIR in 2022), Tsinghua University. My research interest includes recommendation system, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE!**
+I'm a nature-loving guy and a PhD candidate in THUIR. I grew up watching the soft white clouds wandering around the blue sky in Hohhot, Inner Mongolia, China. I love beautiful things, like a meteor across the night sky, warm streetlight around the corner, the eyes of beloved person, etc.
 
-I love eating hotpot with mutton (in Chinese called 涮羊肉, one of the amazing food from my sweet hometown, Hohhot, Inner Mongolia). In my spare time, I love reading, exploring new techs, photography, cooking, riding, running. In one word, I **LOVE MY LIFE** and I'm willing to **LIVE IT TO THE FULLEST**!
+My research interest includes recommendation system, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
-Feel free to contact me by renyi1006 AT gmail.com. We can have a quite open talk. After all, besides research and technology, there stands a more colourful world for us to **EXPLORE**!
+I love eating hotpot with mutton (in Chinese called 涮羊肉, one of the amazing food from my sweet hometown, Hohhot, Inner Mongolia). In my spare time, I love reading, exploring new techs, photography, cooking, riding, running. In one word, I'm willing to **LIVE MY LIFE TO THE FULLEST**!
+
+Feel free to contact me by renyi1006 AT gmail.com. I'm always open to interesting conversations and collaboration. After all, besides research and technology, there stands a more colourful world for us to **EXPLORE**!
 
 <!-- Some of my Github statistics are listed below. -->
 <!--
