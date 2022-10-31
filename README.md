@@ -1,6 +1,6 @@
 ### Hi, I'm Yi REN (任一). Welcome to my GitHub!👋
 
-I'm a nature-loving guy and a PhD candidate in THUIR. I grew up watching the soft white clouds wandering around the blue sky in Hohhot, Inner Mongolia, China.
+I'm a PhD Student in THUIR. I grew up watching the soft white clouds wandering around the blue sky in Hohhot, Inner Mongolia, China.
 
 My research interest includes **recommendation system**, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
