@@ -6,7 +6,9 @@ I grew up watching soft white clouds wandering around the blue sky, lying on the
 
 My research interest includes **recommendation system**, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
-Feel free to contact me by [renyi1006@gmail.com](mailto:renyi1006@gmail.com). I'm always open to conversations and collaboration. After all, including research and technology, there stands a colourful world for us to **EXPLORE**!
+Feel free to contact me by [renyi1006@gmail.com](mailto:renyi1006@gmail.com). I'm always open to conversations and collaboration.
+
+I always believe, including research and technology, there stands a colourful world for us to **EXPLORE**!
 
 <!-- Some of my Github statistics are listed below. -->
 <!--
