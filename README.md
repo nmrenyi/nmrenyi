@@ -1,6 +1,6 @@
 ### Hi, I'm Yi REN (任一). Welcome to my GitHub!👋
 
-I'm a PhD Student in THUIR. 
+I'm a PhD Student in THUIR, Tsinghua University.
 
 I grew up watching soft white clouds wandering around the blue sky, lying on the warm grassland in Hohhot, Inner Mongolia, China.
 
