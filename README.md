@@ -8,7 +8,7 @@ My research interest includes **recommendation system**, information retrieval, 
 
 Feel free to contact me by [renyi1006@gmail.com](mailto:renyi1006@gmail.com). I'm always open to conversations and collaboration.
 
-I always believe, including research and technology, there stands a colourful world for us to **EXPLORE**!
+I always believe, including research and technology, there stands a colourful world for us to **EXPLORE** and to **CREATE**!
 
 <!-- Some of my Github statistics are listed below. -->
 <!--
