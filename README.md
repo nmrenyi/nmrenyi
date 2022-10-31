@@ -4,8 +4,6 @@ I'm a nature-loving guy and a PhD candidate in THUIR. I grew up watching the sof
 
 My research interest includes recommendation system, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
-I love eating hotpot with mutton (in Chinese called 涮羊肉, one of the amazing food from my sweet hometown, Hohhot, Inner Mongolia). In my spare time, I love reading, exploring new techs, photography, cooking, riding, running. In one word, I'm willing to **LIVE MY LIFE TO THE FULLEST**!
-
 Feel free to contact me by renyi1006 AT gmail.com. I'm always open to interesting conversations and collaboration. After all, besides research and technology, there stands a more colourful world for us to **EXPLORE**!
 
 <!-- Some of my Github statistics are listed below. -->
