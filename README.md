@@ -2,7 +2,7 @@
 
 I'm a PhD Student in THUIR. 
 
-I grew up watching the soft white clouds wandering around the blue sky, lying on the warm grassland in Hohhot, Inner Mongolia, China.
+I grew up watching soft white clouds wandering around the blue sky, lying on the warm grassland in Hohhot, Inner Mongolia, China.
 
 My research interest includes **recommendation system**, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
 
