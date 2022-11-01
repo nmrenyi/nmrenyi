@@ -4,7 +4,7 @@ I'm a PhD Student in THUIR, Tsinghua University.
 
 I grew up watching soft white clouds wandering around the blue sky, lying on the warm grassland in Hohhot, Inner Mongolia, China.
 
-My research interest includes **recommendation system**, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation, our children.**
+My research interest includes **recommendation system**, information retrieval, deep learning, machine learning and **ALL THAT CAN BENEFIT HUMAN RACE, especially our next generation.**
 
 Feel free to contact me by [renyi1006@gmail.com](mailto:renyi1006@gmail.com). I'm always open to conversations and collaboration.
 
