@@ -1,4 +1,4 @@
-### Hi, I'm Yi REN (任一). Welcome to my GitHub!👋
+### Hi, I'm Yi Ren (任一). Welcome to my GitHub!👋
 
 I'm a PhD Student in THUIR, Tsinghua University.
 
