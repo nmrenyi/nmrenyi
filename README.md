@@ -1,4 +1,4 @@
-### Hi, I'm Yi Ren (任一). Welcome to my GitHub!👋
+### Hi, I'm RenYi (任一). Welcome to my GitHub!👋
 
 I'm a Master Student in Digital Humanities at EPFL.
 
