@@ -8,7 +8,7 @@ Feel free to contact me by [bonjour@renyi.ch](mailto:bonjour@renyi.ch). I'm alwa
 
 I always believe, including research and technology, there stands a colourful world for us to **EXPLORE** and to **CREATE**!
 
-Visit my personal website ([renyi.ch](https://renyi.ch)) for more information about me!
+Visit my personal website [renyi.ch](https://renyi.ch) for more information about me!
 
 <!-- Some of my Github statistics are listed below. -->
 <!--
