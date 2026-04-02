@@ -4,7 +4,7 @@ I'm a Master Student in Digital Humanities at EPFL.
 
 I grew up watching soft white clouds wandering around the blue sky, lying on the warm grassland in Hohhot, Inner Mongolia, China.
 
-Feel free to contact me by [renyi1006@gmail.com](mailto:renyi1006@gmail.com). I'm always open to conversations and collaboration.
+Feel free to contact me by [bonjour@renyi.ch](mailto:bonjour@renyi.ch). I'm always open to conversations and collaboration.
 
 I always believe, including research and technology, there stands a colourful world for us to **EXPLORE** and to **CREATE**!
 
